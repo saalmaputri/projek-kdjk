@@ -9,8 +9,15 @@
 
 ## Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+**Kebutuhan Sistem :**
+- Unix, Linux atau Windows.
+- Apache, Nginx, IIS, atau web server lain yang mendukung PHP.
+- PHP 7.2+
+- RAM minimal 32 Mb+
+
+
+**Proses Instalasi**
+-
 
 
 ## Konfigurasi (opsional)
