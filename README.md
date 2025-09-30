@@ -1,13 +1,22 @@
-# Aplikasi Web "Dokuwiki"
-
 ![Logo DokuWiki](Images/DokuWiki1.jpg)
 
+## Daftar Isi
+- [Sekilas Tentang](#sekilas-tentang)
+- [Instalasi](#instalasi)
+- [Konfigurasi](#konfigurasi)
+- [Otomatisasi](#otomatisasi)
+- [Cara Pemakaian](#cara-pemakaian)
+- [Pembahasan](#pembahasan)
+- [Referensi](#referensi)
+
 ## Sekilas Tentang
+[`^ kembali ke atas ^`](#)
 
 **DokuWiki** adalah aplikasi _wiki open source_ yang sederhana, ringan, dan tidak memerlukan database untuk berjalan. Semua data disimpan dalam bentuk file teks, sehingga instalasi dan pemeliharaannya sangat mudah. **DokuWiki** digunakan di kalangan pengguna yang membutuhkan sistem dokumentasi cepat, aman, dan efisien. **DokuWiki** dirancang untuk kolaborasi, dimana setiap orang yang memiliki akses dapat membuat, mengedit, maupun memperbarui halaman dengan mudah. Setiap perubahan yang dilakukan juga otomatis tersimpan dalam riwayat, sehingga kita bisa melihat siapa yang mengubah apa, dan mengembalikannya.  
 
 
 ## Instalasi
+[`^ kembali ke atas ^`](#)
 
 **Kebutuhan Sistem :**
 - Unix, Linux atau Windows.
