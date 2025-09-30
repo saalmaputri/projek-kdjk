@@ -1,4 +1,4 @@
-# Aplikasi Web "XYZ"
+# Aplikasi Web "Dokuwiki"
 
 
 ## Sekilas Tentang
