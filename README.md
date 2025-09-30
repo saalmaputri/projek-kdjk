@@ -1,5 +1,6 @@
 # Aplikasi Web "Dokuwiki"
 
+![Logo DokuWiki](Images/DokuWiki1.jpg)
 
 ## Sekilas Tentang
 
