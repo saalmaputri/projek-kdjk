@@ -124,5 +124,5 @@ Kekurangan DokuWiki dibandingkan BookStack antara lain:
 ## Referensi
 1. [About DokuWiki](https://www.dokuwiki.org/dokuwiki)
 2. [Wiki Comparison](https://xtom.com/blog/self-hosted-wiki/)
-3. [BookStack vs DokuWiki: Comparison] (https://sourceforge.net/software/compare/BookStack-vs-DokuWiki/)
+3. [BookStack vs DokuWiki: Comparison](https://sourceforge.net/software/compare/BookStack-vs-DokuWiki/)
 
