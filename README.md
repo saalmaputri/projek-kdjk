@@ -136,18 +136,18 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
         - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
           
 4. **Mengunggah dan Menyisipkan Media**
-  ![Upload Media](Images/G4.png)
-  - Klik menu Media Manager di bagian atas.
+   ![Upload Media](Images/G4.png)
+   - Klik menu Media Manager di bagian atas.
     ![Unggah Media](Images/MEDIAMANAGER.png)
-  - Pilih folder/namespace tempat file akan disimpan.
+   - Pilih folder/namespace tempat file akan disimpan.
     ![Alamat Media](Images/G1.png)
-  - Klik Browse/Choose File, pilih gambar atau dokumen dari komputer, lalu tekan Upload.
+   - Klik Browse/Choose File, pilih gambar atau dokumen dari komputer, lalu tekan Upload.
     ![Upload Media](Images/G2.png)
-  - Untuk menambahkan gambar di halaman, gunakan ikon Insert Image (🖼️) atau ketik sintaks:
+   - Untuk menambahkan gambar di halaman, gunakan ikon Insert Image (🖼️) atau ketik sintaks:
       ```bash
       {{:namespace:namafile.png}}
       ```
-    ![Upload Media Sintaks](Images/G3.png)
+     ![Upload Media Sintaks](Images/G3.png)
 
 
 ## Pembahasan
