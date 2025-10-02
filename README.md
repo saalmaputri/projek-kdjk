@@ -47,13 +47,29 @@
 5. DokuWiki sudah dapat digunakan dalam localhost
    ![LocalHost DokuWiki](Images/DokuWiki4.png)
 
+## Konfigurasi 
 
-## Konfigurasi (opsional)
+**Setting Server**
+1. Setelah proses instalasi, setting memebuka file php.ini dengan text editor (Notepad++ / nano / vim)
+   ```bash
+   C:\xampp\php\php.ini
+   ```
+2. Cari baris upload_max_filesize, post_max_size, memory_limit, max_execution_time dan atur sesuai kebutuhan
+   - Batas upload file 
+   - Batas memori → agar stabil jika halaman/file besar
+   - Maksimum execution time → menghindari timeout
+   ![Download DokuWiki](Images/DokuWiki2.png)
+   
+4. Restart Apache untuk mengaktifkan perubahan
+   XAMPP → klik Stop lalu Start di Apache
+   http;
 
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
+
+Plugin untuk fungsi tambahan
+- login dengan Google/Facebook
+- editor Markdown
 - dll
+
 
 Plugin untuk fungsi tambahan
 - login dengan Google/Facebook
