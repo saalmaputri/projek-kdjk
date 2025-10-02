@@ -91,15 +91,14 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
    ![Halaman Utama WEB](Images/HALAMANUTAMA.png)
 -  Membuka/Membuat Halaman
-   ![Halaman Utama WEB](Images/MEMBUKA-MEMBUATHALAMAN.png)
-   1. Masukkan nama halaman pada **kotak pencarian**.  
+   1. Masukkan nama halaman pada **kotak pencarian**.
+      ![Halaman Utama WEB](Images/MEMBUKA-MEMBUATHALAMAN.png)
    2. Jika halaman belum ada, klik ":[nama halaman]" untuk membuat halaman baru.
    3. Halaman bisa dikelompokkan dalam **namespace** (mirip folder).  
       Contoh: `mutu:kdjk-otw-a`
 -  Mengedit Halaman
-   ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
    1. Klik tombol **Edit this page** di bagian atas halaman.
-      ![Halaman Hasil Edit](Images/HASILEDIT.png)
+      ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
    2. Edit halaman dengan _toolbar_ yang berisi:
       - B → Bold
         Membuat teks tebal.
@@ -138,6 +137,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
         Contoh: :) → 🙂 , :( → ☹️
       - Ω (Omega) → Special Characters
         Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
+      ![Halaman Hasil Edit](Images/HASILEDIT.png)
 - Mengunggah dan Menyisipkan Media
 
 - Menambah Plugin
