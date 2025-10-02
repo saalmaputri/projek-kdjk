@@ -109,10 +109,20 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
       2. **Tampilan dan Pengalaman Pengguna (UI/UX):** Interface dalam DokuWiki terlihat lebih sederhana dibanding wiki modern seperti _Confluence atau Notion_, sehingga terasa kurang menarik dan intuitif untuk pengguna yang baru menggunakan Dokuwiki.
       3. **Fitur Bawaan Terbatas:** Beberapa fungsi tambahan dalam DokuWiki harus diinstal terlebih dahulu melalui plugin agar wiki memiliki fitur yang lengkap sesuai kebutuhan pengguna.
          
-- Bandingkan dengan aplikasi web lain yang sejenis
+Salah satu CMS yang memiliki tipe serupa dengan DokuWiki adalah BookStack. Keduanya sama-sama digunakan sebagai platform dokumentasi, namun memiliki perbedaan dari sisi fitur, penggunaan, dan kebutuhan teknis.
 
+Kelebihan DokuWiki dibandingkan BookStack antara lain:
+1. **Akses publik yang mudah**. DokuWiki dapat diakses secara terbuka tanpa login sehingga cocok digunakan untuk dokumentasi publik dan open knowledge base. Sebaliknya, BookStack secara default bersifat tertutup, sehingga seluruh konten hanya dapat diakses setelah pengguna login.
+2. **Instalasi yang ringan**. DokuWiki tidak membutuhkan database sehingga instalasi lebih sederhana dan performa lebih stabil dengan beban server yang rendah. Sementara itu, BookStack membutuhkan database (seperti MySQL/MariaDB) sehingga setup relatif lebih kompleks dan berat.
+3. **Fleksibilitas kustomisasi**. DokuWiki mendukung banyak plugin dan ekstensi, misalnya tema, diagram, atau export PDF, sehingga dapat disesuaikan dengan berbagai kebutuhan use case. Pada BookStack, opsi kustomisasi lebih terbatas karena fokusnya adalah pada dokumentasi sederhana.
+
+Kekurangan DokuWiki dibandingkan BookStack antara lain:
+1. **Antarmuka sederhana**. UI/UX DokuWiki cenderung minimalis dan terlihat kuno, sehingga pengalaman pengguna terasa kurang modern jika dibandingkan dengan BookStack yang lebih intuitif.
+2. **Autentikasi terbatas**. DokuWiki hanya menyediakan autentikasi internal sederhana secara bawaan. Sebaliknya, BookStack sudah mendukung integrasi autentikasi modern seperti LDAP atau SSO.
+3. **Learning-curve lebih tinggi**. DokuWiki membutuhkan pengetahuan tentang sintaks wiki untuk membuat konten, sehingga kurang ramah bagi pengguna non-teknis. BookStack lebih mudah dipahami karena antarmukanya mirip dengan aplikasi pengolah dokumen populer seperti Word atau Notion.
 
 ## Referensi
 1. [About DokuWiki](https://www.dokuwiki.org/dokuwiki)
 2. [Wiki Comparison](https://xtom.com/blog/self-hosted-wiki/)
+3. [BookStack vs DokuWiki: Comparison] (https://sourceforge.net/software/compare/BookStack-vs-DokuWiki/)
 
