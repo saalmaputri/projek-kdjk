@@ -85,9 +85,9 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Cara Pemakaian
-
+[`^ kembali ke atas ^`](#)
 -  Membuka Website Hasil Deploy
-   Akses alamat web berikut.  
+   - Akses alamat web berikut.  
    [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
    ![Halaman Utama WEB](Images/HALAMANUTAMA.png)
 -  Membuka/Membuat Halaman
@@ -101,42 +101,42 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
       ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
    2. Edit halaman dengan _toolbar_ yang berisi:
       - B → Bold
-        Membuat teks tebal.
-        Sintaks: **teks** → teks
+        - Membuat teks tebal.
+        - Sintaks: **teks** → teks
       - I → Italic
-        Membuat teks miring.
-        Sintaks: //teks// → teks
+        - Membuat teks miring.
+        - Sintaks: //teks// → teks
       - U → Underline
-        Membuat teks bergaris bawah.
-        Sintaks: __teks__ → <u>teks</u>
+        - Membuat teks bergaris bawah.
+        - Sintaks: __teks__ → <u>teks</u>
       - TT → Monospaced (teks kode)
-        Menampilkan kode atau teks tetap.
-        Sintaks: ''teks'' → teks
+        - Menampilkan kode atau teks tetap.
+        - Sintaks: ''teks'' → teks
       - H1, H2, H3, H4, H5 → Heading
-        Membuat judul dengan level berbeda.
-        Sintaks: ===== Heading 1 =====
-                 ==== Heading 2 ====
-                 === Heading 3 ===
-                 == Heading 4 ==
-                 = Heading 5 =
+        - Membuat judul dengan level berbeda.
+        - Sintaks: ===== Heading 1 =====
+                 - ==== Heading 2 ====
+                 - === Heading 3 ===
+                 - == Heading 4 ==
+                 - = Heading 5 =
       - Rantai (🔗) → Insert Link
-        Membuat tautan ke halaman lain atau URL.
-        Sintaks: [[halaman:lain|Teks Link]]
-                 [[https://example.com|Website]]
+        - Membuat tautan ke halaman lain atau URL.
+        - Sintaks: [[halaman:lain|Teks Link]]
+                 - [[https://example.com|Website]]
       - Gambar (🖼️) → Insert Image
-        Menyisipkan gambar dari Media Manager.
-        Sintaks: {{:gambar.png}}
-                 {{https://example.com/logo.png}}
+        - Menyisipkan gambar dari Media Manager.
+        - Sintaks: {{:gambar.png}}
+                 - {{https://example.com/logo.png}}
       - Daftar Bullet (•) → Unordered List
-        Sintaks: * Item 1
-                 * Item 2
+        - Sintaks: * Item 1
+                 - * Item 2
       - Daftar Angka (1. 2. 3.) → Ordered List
-        Sintaks: - Item 1
-                 - Item 2
+        - Sintaks: - Item 1
+                 - - Item 2
       - Emoji/Smiley (😊) → Menyisipkan emoticon bawaan.
-        Contoh: :) → 🙂 , :( → ☹️
+        - Contoh: :) → 🙂 , :( → ☹️
       - Ω (Omega) → Special Characters
-        Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
+        - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
       ![Halaman Hasil Edit](Images/HASILEDIT.png)
 - Mengunggah dan Menyisipkan Media
 
