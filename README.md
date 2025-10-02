@@ -86,19 +86,19 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-1.  ### Membuka Website Hasil Deploy
+### Membuka Website Hasil Deploy
    - Akses alamat web berikut.  
    [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
    ![Halaman Utama WEB](Images/HALAMANUTAMA.png)
 
-2.  **Membuka/Membuat Halaman**
+### Membuka/Membuat Halaman
    - Masukkan nama halaman pada **kotak pencarian**.
      ![Halaman Utama WEB](Images/MEMBUKA-MEMBUATHALAMAN.png)
    - Jika halaman belum ada, klik ":[nama halaman]" untuk membuat halaman baru.
    - Halaman bisa dikelompokkan dalam **namespace** (mirip folder).
      Contoh: `mutu:kdjk-otw-a`
      
-3. **Mengedit Halaman**
+### Mengedit Halaman
    ![Halaman Hasil Edit](Images/HASILEDIT.png)
    1. Klik tombol **Edit this page** di bagian atas halaman.
       ![Opsi Edit Halaman](Images/G0.png)
@@ -135,7 +135,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
       - Ω (Omega) → Special Characters
          - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
           
-4. **Mengunggah dan Menyisipkan Media**
+### Mengunggah dan Menyisipkan Media
    ![Upload Media](Images/G4.png)
    - Klik menu Media Manager di bagian atas.
     ![Unggah Media](Images/MEDIAMANAGER.png)
