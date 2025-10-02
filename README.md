@@ -26,7 +26,24 @@
 
 
 **Proses Instalasi**
--
+1. Download DokuWiki
+   - Dapat diakses melalui link dokuwiki.org
+     (foto nya)
+   - Dapat git clone melalui terminal
+
+   ```bash
+   git clone https://github.com/dokuwiki/dokuwiki
+   ```
+2. Pastikan XAMPP sudah terpasang pada perangkat, masukkan file DokuWiki yang sudah di download kedalam folder
+   ```bash
+   C:\xampp\htdocs\
+   ```
+3. Buka XAMPP dan start Apache
+   (foto)
+4. DokuWiki dapat di akses local melalui link berikut
+   ```bash
+   http://localhost/dokuwiki/
+   ```
 
 
 ## Konfigurasi (opsional)
