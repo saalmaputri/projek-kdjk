@@ -86,11 +86,11 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-1.  Membuka Website Hasil Deploy
-   - Akses alamat web berikut.  
+-  Membuka Website Hasil Deploy
+-  - Akses alamat web berikut.  
    [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
    ![Halaman Utama WEB](Images/HALAMANUTAMA.png)
-2.  Membuka/Membuat Halaman
+-  Membuka/Membuat Halaman
    1. Masukkan nama halaman pada **kotak pencarian**.
       ![Halaman Utama WEB](Images/MEMBUKA-MEMBUATHALAMAN.png)
    2. Jika halaman belum ada, klik ":[nama halaman]" untuk membuat halaman baru.
@@ -145,7 +145,6 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
       {{:namespace:namafile.png}}
       ```
       ![Upload Media Sintaks](Images/G3.png)
-- Menambah Plugin
 
 
 ## Pembahasan
