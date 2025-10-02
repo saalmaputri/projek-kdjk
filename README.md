@@ -93,8 +93,8 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
          
     - **Kekurangan**
       1. **Skalabilitas Terbatas:** Untuk organisasi besar atau wiki dengan konten sangat dinamis, DokuWiki bisa terasa kurang cepat dan fitur yang disediakan terbatas karena pendekatan yang sederhana.
-      2. **Tampilan dan Pengalaman Pengguna (UI/UX):** Interface dalam Dokuwiki terlihat lebih sederhana dibanding wiki modern seperti _Confluence atau Notion_, sehingga terasa kurang menarik dan intuitif untuk pengguna yang baru menggunakan Dokuwiki.
-      3. **Fitur Bawaan Terbatas:** Beberapa fungsi tambahan dalam Dokuwiki harus diinstal terlebih dahulu melalui plugin agar wiki memiliki fitur yang lengkap sesuai kebutuhan pengguna.
+      2. **Tampilan dan Pengalaman Pengguna (UI/UX):** Interface dalam DokuWiki terlihat lebih sederhana dibanding wiki modern seperti _Confluence atau Notion_, sehingga terasa kurang menarik dan intuitif untuk pengguna yang baru menggunakan Dokuwiki.
+      3. **Fitur Bawaan Terbatas:** Beberapa fungsi tambahan dalam DokuWiki harus diinstal terlebih dahulu melalui plugin agar wiki memiliki fitur yang lengkap sesuai kebutuhan pengguna.
          
 - Bandingkan dengan aplikasi web lain yang sejenis
 
