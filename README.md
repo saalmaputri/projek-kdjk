@@ -99,41 +99,41 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
      Contoh: `mutu:kdjk-otw-a`
      
 3. **Mengedit Halaman**
-  ![Halaman Hasil Edit](Images/HASILEDIT.png)
-  1. Klik tombol **Edit this page** di bagian atas halaman.
-     ![Opsi Edit Halaman](Images/G0.png)
-  2. Edit halaman dengan _toolbar_
-     ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
-     - Berikut penjelasan ditur dalam _toolbar_:
-     - - B → Bold
-        - Membuat teks tebal.
-        - Sintaks: `**teks**` → teks
-     - I → Italic
-        - Membuat teks miring.
-        - Sintaks: `//teks//` → teks
-     - U → Underline
-        - Membuat teks bergaris bawah.
-        - Sintaks: `__teks__` → <u>teks</u>
-     - TT → Monospaced (teks kode)
-        - Menampilkan kode atau teks tetap.
-        - Sintaks: `''teks''` → teks
-     - H1, H2, H3, H4, H5 → Heading
-        - Membuat judul dengan level berbeda.
-        - Sintaks: `===== Heading 1 =====`, `==== Heading 2 ====`, `=== Heading 3 ===`, `== Heading 4 ==`, `= Heading 5 =`
-     - Rantai (🔗) → Insert Link
-        - Membuat tautan ke halaman lain atau URL.
-        - Sintaks: `[[halaman:lain|Teks Link]]`, `[[https://example.com|Website]]`
-     - Gambar (🖼️) → Insert Image
-        - Menyisipkan gambar dari Media Manager.
-        - Sintaks: `{{:gambar.png}}`, `{{https://example.com/logo.png}}`
-     - Daftar Bullet (•) → Unordered List
-        - Sintaks: `* Item 1`, `* Item 2`
-     - Daftar Angka (1. 2. 3.) → Ordered List
-        - Sintaks: `- Item 1`, `- Item 2`
-     - Emoji/Smiley (😊) → Menyisipkan emoticon bawaan.
-        - Contoh: `:)` → 🙂 , `:(` → ☹️
-     - Ω (Omega) → Special Characters
-        - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
+   ![Halaman Hasil Edit](Images/HASILEDIT.png)
+   1. Klik tombol **Edit this page** di bagian atas halaman.
+      ![Opsi Edit Halaman](Images/G0.png)
+   2. Edit halaman dengan _toolbar_
+      ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
+      - Berikut penjelasan ditur dalam _toolbar_:
+      - - B → Bold
+         - Membuat teks tebal.
+         - Sintaks: `**teks**` → teks
+      - I → Italic
+         - Membuat teks miring.
+         - Sintaks: `//teks//` → teks
+      - U → Underline
+         - Membuat teks bergaris bawah.
+         - Sintaks: `__teks__` → <u>teks</u>
+      - TT → Monospaced (teks kode)
+         - Menampilkan kode atau teks tetap.
+         - Sintaks: `''teks''` → teks
+      - H1, H2, H3, H4, H5 → Heading
+         - Membuat judul dengan level berbeda.
+         - Sintaks: `===== Heading 1 =====`, `==== Heading 2 ====`, `=== Heading 3 ===`, `== Heading 4 ==`, `= Heading 5 =`
+      - Rantai (🔗) → Insert Link
+         - Membuat tautan ke halaman lain atau URL.
+         - Sintaks: `[[halaman:lain|Teks Link]]`, `[[https://example.com|Website]]`
+      - Gambar (🖼️) → Insert Image
+         - Menyisipkan gambar dari Media Manager.
+         - Sintaks: `{{:gambar.png}}`, `{{https://example.com/logo.png}}`
+      - Daftar Bullet (•) → Unordered List
+         - Sintaks: `* Item 1`, `* Item 2`
+      - Daftar Angka (1. 2. 3.) → Ordered List
+         - Sintaks: `- Item 1`, `- Item 2`
+      - Emoji/Smiley (😊) → Menyisipkan emoticon bawaan.
+         - Contoh: `:)` → 🙂 , `:(` → ☹️
+      - Ω (Omega) → Special Characters
+         - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
           
 4. **Mengunggah dan Menyisipkan Media**
    ![Upload Media](Images/G4.png)
