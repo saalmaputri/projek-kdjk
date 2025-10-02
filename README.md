@@ -89,7 +89,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
       2. **Kebutuhan Sistem Rendah**: DokuWiki ringan karena bisa berjalan di server dengan spesifikasi kecil, hemat RAM dan CPU, serta cocok untuk server kampus atau organisasi kecil.
       3. **Manajemen Konten Fleksibel**: Mendukung _unlimited page revisions_, kategori melalui namespace, upload dan embedding media, serta link otomatis antarhalaman, membuat pengelolaan konten menjadi rapi dan mudah dicari.
       4. **Keamanan dan Kontrol Akses**: Dilengkapi Access Control List (ACL), halaman read-only, anti-spam, dan proteksi email, Dokuwiki memberikan kontrol penuh terhadap siapa yang bisa mengakses atau mengedit konten serta melindungi dari gangguan.
-      5. **Internasional dan URL Bersih**: Mendukung lebih dari 50 bahasa termasuk Bahasa Indonesia, UTF-8, serta romanization untuk URL, cocok untuk tim lokal maupun internasional dengan navigasi halaman yang rapi.
+      5. **Mendukung Banyak Bahasa dan Global**: Mendukung lebih dari 50 bahasa termasuk Bahasa Indonesia, UTF-8, serta romanization untuk URL, cocok untuk tim lokal maupun internasional dengan navigasi halaman yang rapi.
          
     - **Kekurangan**
       1. **Skalabilitas Terbatas:** Untuk organisasi besar atau wiki dengan konten sangat dinamis, DokuWiki bisa terasa kurang cepat dan fitur yang disediakan terbatas karena pendekatan yang sederhana.
@@ -100,5 +100,6 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Referensi
+https://www.dokuwiki.org/dokuwiki
+https://xtom.com/blog/self-hosted-wiki/ 
 
-Cantumkan tiap sumber informasi yang anda pakai.
