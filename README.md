@@ -86,22 +86,23 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#)
--  Membuka Website Hasil Deploy
+1.  Membuka Website Hasil Deploy
    - Akses alamat web berikut.  
    [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
    ![Halaman Utama WEB](Images/HALAMANUTAMA.png)
--  Membuka/Membuat Halaman
+2.  Membuka/Membuat Halaman
    1. Masukkan nama halaman pada **kotak pencarian**.
       ![Halaman Utama WEB](Images/MEMBUKA-MEMBUATHALAMAN.png)
    2. Jika halaman belum ada, klik ":[nama halaman]" untuk membuat halaman baru.
    3. Halaman bisa dikelompokkan dalam **namespace** (mirip folder).  
       Contoh: `mutu:kdjk-otw-a`
--  Mengedit Halaman
-   ![Halaman Hasil Edit](Images/HASILEDIT.png)
-      ![Opsi Edit Halaman](Images/EDITTHIS.png)
+3.  Mengedit Halaman
+      ![Halaman Hasil Edit](Images/HASILEDIT.png)
    1. Klik tombol **Edit this page** di bagian atas halaman.
-      ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
+      ![Opsi Edit Halaman](Images/EDITTHIS.png)
    2. Edit halaman dengan _toolbar_
+      ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
+      - Berikut penjelasan ditur dalam _toolbar_:
       - B → Bold
         - Membuat teks tebal.
         - Sintaks: `**teks**` → teks
@@ -131,19 +132,19 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
         - Contoh: `:)` → 🙂 , `:(` → ☹️
       - Ω (Omega) → Special Characters
         - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
-- Mengunggah dan Menyisipkan Media
-  ![Upload Media](Images/G4.png)
-  1. Klik menu Media Manager di bagian atas.
-     ![Unggah Media](Images/Media Manager.png)
-  2. Pilih folder/namespace tempat file akan disimpan.
-     ![Alamat Media](Images/G1.png)
-  3. Klik Browse/Choose File, pilih gambar atau dokumen dari komputer, lalu tekan Upload.
-     ![Upload Media](Images/G2.png)
-  4. Untuk menambahkan gambar di halaman, gunakan ikon Insert Image (🖼️) atau ketik sintaks:
-     ```bash
-     {{:namespace:namafile.png}}
-     ```
-     ![Upload Media Sintaks](Images/G3.png)
+4. Mengunggah dan Menyisipkan Media
+   ![Upload Media](Images/G4.png)
+   1. Klik menu Media Manager di bagian atas.
+      ![Unggah Media](Images/Media Manager.png)
+   2. Pilih folder/namespace tempat file akan disimpan.
+      ![Alamat Media](Images/G1.png)
+   3. Klik Browse/Choose File, pilih gambar atau dokumen dari komputer, lalu tekan Upload.
+      ![Upload Media](Images/G2.png)
+   4. Untuk menambahkan gambar di halaman, gunakan ikon Insert Image (🖼️) atau ketik sintaks:
+      ```bash
+      {{:namespace:namafile.png}}
+      ```
+      ![Upload Media Sintaks](Images/G3.png)
 - Menambah Plugin
 
 
