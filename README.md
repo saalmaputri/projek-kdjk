@@ -82,10 +82,20 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Pembahasan
-
 - Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
+  
+    - **Kelebihan**
+      1. **Mudah Diinstal dan Digunakan**: DokuWiki hanya butuh PHP dan web server (Apache/Nginx) tanpa database, jadi instalasi akan terasa cepat dan mudah. Sintaks yang digunakan sederhana, yaitu toolbar, section editing, auto-save, dan breadcrumbs, sehingga pengguna baru maupun profesional bisa langsung menulis dan mengedit halaman dengan mudah.
+      2. **Kebutuhan Sistem Rendah**: DokuWiki ringan karena bisa berjalan di server dengan spesifikasi kecil, hemat RAM dan CPU, serta cocok untuk server kampus atau organisasi kecil.
+      3. **Manajemen Konten Fleksibel**: Mendukung _unlimited page revisions_, kategori melalui namespace, upload dan embedding media, serta link otomatis antarhalaman, membuat pengelolaan konten menjadi rapi dan mudah dicari.
+      4. **Keamanan dan Kontrol Akses**: Dilengkapi Access Control List (ACL), halaman read-only, anti-spam, dan proteksi email, Dokuwiki memberikan kontrol penuh terhadap siapa yang bisa mengakses atau mengedit konten serta melindungi dari gangguan.
+      5. **Internasional dan URL Bersih**: Mendukung lebih dari 50 bahasa termasuk Bahasa Indonesia, UTF-8, serta romanization untuk URL, cocok untuk tim lokal maupun internasional dengan navigasi halaman yang rapi.
+         
+    - **Kekurangan**
+      1. **Skalabilitas Terbatas:** Untuk organisasi besar atau wiki dengan konten sangat dinamis, DokuWiki bisa terasa kurang cepat dan fitur yang disediakan terbatas karena pendekatan yang sederhana.
+      2. **Tampilan dan Pengalaman Pengguna (UI/UX):** Interface dalam Dokuwiki terlihat lebih sederhana dibanding wiki modern seperti _Confluence atau Notion_, sehingga terasa kurang menarik dan intuitif untuk pengguna yang baru menggunakan Dokuwiki.
+      3. **Fitur Bawaan Terbatas:** Beberapa fungsi tambahan dalam Dokuwiki harus diinstal terlebih dahulu melalui plugin agar wiki memiliki fitur yang lengkap sesuai kebutuhan pengguna.
+         
 - Bandingkan dengan aplikasi web lain yang sejenis
 
 
