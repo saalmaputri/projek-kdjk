@@ -50,7 +50,7 @@
 ## Konfigurasi 
 
 **Setting Server**
-1. Setelah proses instalasi, setting memebuka file php.ini dengan text editor (Notepad++ / nano / vim)
+1. Setelah proses instalasi, setting konfigurasi dengan memebuka file php.ini pada text editor (Notepad++ / nano / vim)
    ```bash
    C:\xampp\php\php.ini
    ```
@@ -58,17 +58,11 @@
    - Batas upload file 
    - Batas memori → agar stabil jika halaman/file besar
    - Maksimum execution time → menghindari timeout
-   ![Download DokuWiki](Images/DokuWiki2.png)
+   ![Download DokuWiki](Images/Konfigurasi2.png)
    
 4. Restart Apache untuk mengaktifkan perubahan
    XAMPP → klik Stop lalu Start di Apache
-   http;
-
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
+   ![Start Apache aktif](Images/Konfigurasi3.png)
 
 
 Plugin untuk fungsi tambahan
