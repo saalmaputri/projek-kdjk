@@ -85,8 +85,11 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Cara Pemakaian
-
-- Tampilan aplikasi web
+![Halaman Utama WEB](Images/Konfigurasi2.png)
+1. Buka Website Hasil Deploy
+- Akses alamat deployment kamu:  
+  [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
+2. Buat Page Baru
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
