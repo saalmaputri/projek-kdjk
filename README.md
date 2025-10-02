@@ -99,7 +99,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - **Mengedit Halaman**
   ![Halaman Hasil Edit](Images/HASILEDIT.png)
   1. Klik tombol **Edit this page** di bagian atas halaman.
-     ![Opsi Edit Halaman](Images/EDITTHIS.png)
+     ![Opsi Edit Halaman](Images/G0.png)
   2. Edit halaman dengan _toolbar_
      ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
      - Berikut penjelasan ditur dalam _toolbar_:
@@ -134,17 +134,17 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
         - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
 - **Mengunggah dan Menyisipkan Media**
   ![Upload Media](Images/G4.png)
-   1. Klik menu Media Manager di bagian atas.
-      ![Unggah Media](Images/Media Manager.png)
-   2. Pilih folder/namespace tempat file akan disimpan.
-      ![Alamat Media](Images/G1.png)
-   3. Klik Browse/Choose File, pilih gambar atau dokumen dari komputer, lalu tekan Upload.
-      ![Upload Media](Images/G2.png)
-   4. Untuk menambahkan gambar di halaman, gunakan ikon Insert Image (🖼️) atau ketik sintaks:
+  - Klik menu Media Manager di bagian atas.
+    ![Unggah Media](Images/MEDIAMANAGER.png)
+  - Pilih folder/namespace tempat file akan disimpan.
+    ![Alamat Media](Images/G1.png)
+  - Klik Browse/Choose File, pilih gambar atau dokumen dari komputer, lalu tekan Upload.
+    ![Upload Media](Images/G2.png)
+  - Untuk menambahkan gambar di halaman, gunakan ikon Insert Image (🖼️) atau ketik sintaks:
       ```bash
       {{:namespace:namafile.png}}
       ```
-      ![Upload Media Sintaks](Images/G3.png)
+    ![Upload Media Sintaks](Images/G3.png)
 
 
 ## Pembahasan
