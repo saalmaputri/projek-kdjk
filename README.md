@@ -86,7 +86,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-1.  **Membuka Website Hasil Deploy**
+1.  ### Membuka Website Hasil Deploy
    - Akses alamat web berikut.  
    [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
    ![Halaman Utama WEB](Images/HALAMANUTAMA.png)
@@ -105,7 +105,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    2. Edit halaman dengan _toolbar_
       ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
       - Berikut penjelasan ditur dalam _toolbar_:
-      - - B → Bold
+      - B → Bold
          - Membuat teks tebal.
          - Sintaks: `**teks**` → teks
       - I → Italic
