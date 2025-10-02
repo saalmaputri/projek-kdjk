@@ -100,6 +100,6 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Referensi
-https://www.dokuwiki.org/dokuwiki
-https://xtom.com/blog/self-hosted-wiki/ 
+[About DokuWiki](https://www.dokuwiki.org/dokuwiki)
+[Wiki Comparison](https://xtom.com/blog/self-hosted-wiki/)
 
