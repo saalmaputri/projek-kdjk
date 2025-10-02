@@ -86,17 +86,17 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#)
--  Membuka Website Hasil Deploy
+-  **Membuka Website Hasil Deploy**
    - Akses alamat web berikut.  
    [DokuWiki Deployment](https://kdjk-kelompok-brph-e3hmfxf4gke0d2dq.southeastasia-01.azurewebsites.net/dokuwiki/doku.php?id=start)
    ![Halaman Utama WEB](Images/HALAMANUTAMA.png)
--  Membuka/Membuat Halaman
+-  **Membuka/Membuat Halaman**
    - Masukkan nama halaman pada **kotak pencarian**.
      ![Halaman Utama WEB](Images/MEMBUKA-MEMBUATHALAMAN.png)
    - Jika halaman belum ada, klik ":[nama halaman]" untuk membuat halaman baru.
    - Halaman bisa dikelompokkan dalam **namespace** (mirip folder).
      Contoh: `mutu:kdjk-otw-a`
-- Mengedit Halaman
+- **Mengedit Halaman**
   ![Halaman Hasil Edit](Images/HASILEDIT.png)
   1. Klik tombol **Edit this page** di bagian atas halaman.
      ![Opsi Edit Halaman](Images/EDITTHIS.png)
@@ -109,30 +109,30 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
      - I → Italic
         - Membuat teks miring.
         - Sintaks: `//teks//` → teks
-   - U → Underline
+     - U → Underline
         - Membuat teks bergaris bawah.
         - Sintaks: `__teks__` → <u>teks</u>
-   - TT → Monospaced (teks kode)
+     - TT → Monospaced (teks kode)
         - Menampilkan kode atau teks tetap.
         - Sintaks: `''teks''` → teks
-   - H1, H2, H3, H4, H5 → Heading
+     - H1, H2, H3, H4, H5 → Heading
         - Membuat judul dengan level berbeda.
         - Sintaks: `===== Heading 1 =====`, `==== Heading 2 ====`, `=== Heading 3 ===`, `== Heading 4 ==`, `= Heading 5 =`
-   - Rantai (🔗) → Insert Link
+     - Rantai (🔗) → Insert Link
         - Membuat tautan ke halaman lain atau URL.
         - Sintaks: `[[halaman:lain|Teks Link]]`, `[[https://example.com|Website]]`
-   - Gambar (🖼️) → Insert Image
+     - Gambar (🖼️) → Insert Image
         - Menyisipkan gambar dari Media Manager.
         - Sintaks: `{{:gambar.png}}`, `{{https://example.com/logo.png}}`
-   - Daftar Bullet (•) → Unordered List
+     - Daftar Bullet (•) → Unordered List
         - Sintaks: `* Item 1`, `* Item 2`
-   - Daftar Angka (1. 2. 3.) → Ordered List
+     - Daftar Angka (1. 2. 3.) → Ordered List
         - Sintaks: `- Item 1`, `- Item 2`
-   - Emoji/Smiley (😊) → Menyisipkan emoticon bawaan.
+     - Emoji/Smiley (😊) → Menyisipkan emoticon bawaan.
         - Contoh: `:)` → 🙂 , `:(` → ☹️
-   - Ω (Omega) → Special Characters
+     - Ω (Omega) → Special Characters
         - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
-- Mengunggah dan Menyisipkan Media
+- **Mengunggah dan Menyisipkan Media**
   ![Upload Media](Images/G4.png)
    1. Klik menu Media Manager di bagian atas.
       ![Unggah Media](Images/Media Manager.png)
