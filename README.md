@@ -97,12 +97,11 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    3. Halaman bisa dikelompokkan dalam **namespace** (mirip folder).  
       Contoh: `mutu:kdjk-otw-a`
 -  Mengedit Halaman
+   ![Halaman Hasil Edit](Images/HASILEDIT.png)
       ![Opsi Edit Halaman](Images/EDITTHIS.png)
    1. Klik tombol **Edit this page** di bagian atas halaman.
       ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
    2. Edit halaman dengan _toolbar_
-       ![Halaman Hasil Edit](Images/HASILEDIT.png)
-      Penjelasan terkait _toolbar_:
       - B → Bold
         - Membuat teks tebal.
         - Sintaks: `**teks**` → teks
