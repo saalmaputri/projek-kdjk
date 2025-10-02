@@ -97,49 +97,54 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    3. Halaman bisa dikelompokkan dalam **namespace** (mirip folder).  
       Contoh: `mutu:kdjk-otw-a`
 -  Mengedit Halaman
+      ![Opsi Edit Halaman](Images/EDITTHIS.png)
    1. Klik tombol **Edit this page** di bagian atas halaman.
       ![Tampilan Edit Halaman](Images/MENGEDITHALAMAN.png)
-   2. Edit halaman dengan _toolbar_ yang berisi:
+   2. Edit halaman dengan _toolbar_
+       ![Halaman Hasil Edit](Images/HASILEDIT.png)
+      Penjelasan terkait _toolbar_:
       - B → Bold
         - Membuat teks tebal.
-        - Sintaks: **teks** → teks
+        - Sintaks: `**teks**` → teks
       - I → Italic
         - Membuat teks miring.
-        - Sintaks: //teks// → teks
+        - Sintaks: `//teks//` → teks
       - U → Underline
         - Membuat teks bergaris bawah.
-        - Sintaks: __teks__ → <u>teks</u>
+        - Sintaks: `__teks__` → <u>teks</u>
       - TT → Monospaced (teks kode)
         - Menampilkan kode atau teks tetap.
-        - Sintaks: ''teks'' → teks
+        - Sintaks: `''teks''` → teks
       - H1, H2, H3, H4, H5 → Heading
         - Membuat judul dengan level berbeda.
-        - Sintaks: ===== Heading 1 =====
-                 - ==== Heading 2 ====
-                 - === Heading 3 ===
-                 - == Heading 4 ==
-                 - = Heading 5 =
+        - Sintaks: `===== Heading 1 =====`, `==== Heading 2 ====`, `=== Heading 3 ===`, `== Heading 4 ==`, `= Heading 5 =`
       - Rantai (🔗) → Insert Link
         - Membuat tautan ke halaman lain atau URL.
-        - Sintaks: [[halaman:lain|Teks Link]]
-                 - [[https://example.com|Website]]
+        - Sintaks: `[[halaman:lain|Teks Link]]`, `[[https://example.com|Website]]`
       - Gambar (🖼️) → Insert Image
         - Menyisipkan gambar dari Media Manager.
-        - Sintaks: {{:gambar.png}}
-                 - {{https://example.com/logo.png}}
+        - Sintaks: `{{:gambar.png}}`, `{{https://example.com/logo.png}}`
       - Daftar Bullet (•) → Unordered List
-        - Sintaks: * Item 1
-                 - * Item 2
+        - Sintaks: `* Item 1`, `* Item 2`
       - Daftar Angka (1. 2. 3.) → Ordered List
-        - Sintaks: - Item 1
-                 - - Item 2
+        - Sintaks: `- Item 1`, `- Item 2`
       - Emoji/Smiley (😊) → Menyisipkan emoticon bawaan.
-        - Contoh: :) → 🙂 , :( → ☹️
+        - Contoh: `:)` → 🙂 , `:(` → ☹️
       - Ω (Omega) → Special Characters
         - Untuk menambahkan karakter khusus (simbol Yunani, matematika, dll).
-      ![Halaman Hasil Edit](Images/HASILEDIT.png)
 - Mengunggah dan Menyisipkan Media
-
+  ![Upload Media](Images/G4.png)
+  1. Klik menu Media Manager di bagian atas.
+     ![Unggah Media](Images/Media Manager.png)
+  2. Pilih folder/namespace tempat file akan disimpan.
+     ![Alamat Media](Images/G1.png)
+  3. Klik Browse/Choose File, pilih gambar atau dokumen dari komputer, lalu tekan Upload.
+     ![Upload Media](Images/G2.png)
+  4. Untuk menambahkan gambar di halaman, gunakan ikon Insert Image (🖼️) atau ketik sintaks:
+     ```bash
+     {{:namespace:namafile.png}}
+     ```
+     ![Upload Media Sintaks](Images/G3.png)
 - Menambah Plugin
 
 
