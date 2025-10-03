@@ -55,9 +55,9 @@
    C:\xampp\php\php.ini
    ```
 2. Cari baris upload_max_filesize, post_max_size, memory_limit, max_execution_time dan atur sesuai kebutuhan
-   - Batas upload file
-   ![Download DokuWiki](Images/Konfigurasi1.png)
    - Batas memori → agar stabil jika halaman/file besar
+   ![Download DokuWiki](Images/Konfigurasi1.png)
+   - Batas upload file
    - Maksimum execution time → menghindari timeout
    ![Download DokuWiki](Images/Konfigurasi2.png)
    
