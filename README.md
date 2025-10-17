@@ -72,6 +72,8 @@
    ![Tampilan Menu Admin](Images/KonfigurasiAdmin2.png)
 3. Sesuaikan konfigurasi dengan kebutuhan Anda
    ![Pengaturan Konfigurasi](Images/KonfigurasiAdmin3.png)
+4. Setelah selesai tekan tombol save untuk simpan perubahan
+   ![Tombol save untuk simpan perubahan](Images/KonfigurasiAdmin4.png)
 
 
 ## Cara Pemakaian
