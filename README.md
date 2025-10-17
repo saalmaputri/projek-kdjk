@@ -49,7 +49,7 @@
 ## Konfigurasi 
 
 ### Setting Server
-1. Setelah proses instalasi, setting konfigurasi dengan memebuka file php.ini pada text editor (Notepad++ / nano / vim)
+1. Setelah proses instalasi, setting konfigurasi dengan memebuka file php.ini pada text editor 
    ```bash
    C:\xampp\php\php.ini
    ```
@@ -76,7 +76,7 @@
   ```bash
   local.php
   ```
-- Tambahkan baris sesuai di bawah ini dan simpan dengan Ctrl + S
+- Tambahkan baris sesuai di bawah ini dan simpan dengan **Ctrl + S**
   ```bash
   <?php
    $conf['useacl'] = 1;              
@@ -91,14 +91,14 @@
     ```bash
    http://localhost/dokuwiki/doku.php?id=start
    ```
-### Jika sudah ada menu Login
+**Jika sudah ada menu Login**
 1. Login sesuai dengan username dan password admin yang sudah dibuat
     ![Login Admin](Images/KonfigurasiAdmin1.png)
-2. Jika berhasil, akan muncul tampilan menu admin kemudian pilih menu _Configuration Setting_
+2. Jika berhasil, akan muncul tampilan menu admin kemudian pilih menu **Configuration Setting**
    ![Tampilan Menu Admin](Images/KonfigurasiAdmin2.png)
 3. Sesuaikan konfigurasi sesuai dengan kebutuhan Anda
    ![Pengaturan Konfigurasi](Images/KonfigurasiAdmin3.png)
-4. Setelah selesai, tekan tombol save untuk simpan perubahan
+4. Setelah selesai, tekan tombol **save** untuk simpan perubahan
    ![Tombol save untuk simpan perubahan](Images/KonfigurasiAdmin4.png)
 
 
