@@ -80,10 +80,10 @@
   ```bash
   <?php
    $conf['useacl'] = 1;              
-   $conf['superuser'] = 'admin';     // Username admin 
+   $conf['superuser'] = 'admin';     // Username admin bisa disesuaikan
    $conf['autopasswd'] = 1;          
    $conf['authtype'] = 'authplain';  
-   $conf['passcrypt'] = 'bcrypt';    /
+   $conf['passcrypt'] = 'bcrypt';    
    $conf['disableactions'] = '';     
    ```
 - Buka XAMPP Control Panel dan Start kembali Apache
