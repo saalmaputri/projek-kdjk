@@ -65,10 +65,13 @@
    ![Start Apache aktif](Images/Konfigurasi3.png)
 
 
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
+**Konfigurasi sebagai admin**
+1. Login sesuai dengan username dan password admin yang sudah dibuat
+    ![Login Admin](Images/KonfigurasiAdmin1.png)
+2. Jika berhasi, akan muncul tampilan seperti in lalu pilih Configuration Setting
+   ![Tampilan Menu Admin](Images/KonfigurasiAdmin2.png)
+3. Sesuaikan konfigurasi dengan kebutuhan Anda
+   ![Pengaturan Konfigurasi](Images/KonfigurasiAdmin3.png)
 
 
 ## Cara Pemakaian
