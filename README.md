@@ -66,7 +66,8 @@
 
 
 **Konfigurasi sebagai admin**
-Aktifkan Fitur Access Control List (ACL)
+
+## Aktifkan Fitur Access Control List (ACL) Jika belom ada menu Login
 - Masuk ke folder
   ```bash
   C:\xampp\htdocs\dokuwiki\conf\
@@ -90,11 +91,12 @@ Aktifkan Fitur Access Control List (ACL)
     ```bash
    http://localhost/dokuwiki/doku.php?id=start
    ```
+## Jika sudah ada menu Login
 1. Login sesuai dengan username dan password admin yang sudah dibuat
     ![Login Admin](Images/KonfigurasiAdmin1.png)
 2. Jika berhasil, akan muncul tampilan menu admin kemudian pilih menu _Configuration Setting_
    ![Tampilan Menu Admin](Images/KonfigurasiAdmin2.png)
-3. Sesuaikan konfigurasi dengan kebutuhan Anda
+3. Sesuaikan konfigurasi sesuai dengan kebutuhan Anda
    ![Pengaturan Konfigurasi](Images/KonfigurasiAdmin3.png)
 4. Setelah selesai, tekan tombol save untuk simpan perubahan
    ![Tombol save untuk simpan perubahan](Images/KonfigurasiAdmin4.png)
