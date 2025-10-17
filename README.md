@@ -48,7 +48,7 @@
 
 ## Konfigurasi 
 
-**Setting Server**
+### Setting Server
 1. Setelah proses instalasi, setting konfigurasi dengan memebuka file php.ini pada text editor (Notepad++ / nano / vim)
    ```bash
    C:\xampp\php\php.ini
@@ -65,9 +65,9 @@
    ![Start Apache aktif](Images/Konfigurasi3.png)
 
 
-**Konfigurasi sebagai admin**
+### Konfigurasi sebagai admin
 
-## Aktifkan Fitur Access Control List (ACL) Jika belom ada menu Login
+**Aktifkan Fitur Access Control List (ACL) Jika belom ada menu Login**
 - Masuk ke folder
   ```bash
   C:\xampp\htdocs\dokuwiki\conf\
@@ -91,7 +91,7 @@
     ```bash
    http://localhost/dokuwiki/doku.php?id=start
    ```
-## Jika sudah ada menu Login
+### Jika sudah ada menu Login
 1. Login sesuai dengan username dan password admin yang sudah dibuat
     ![Login Admin](Images/KonfigurasiAdmin1.png)
 2. Jika berhasil, akan muncul tampilan menu admin kemudian pilih menu _Configuration Setting_
