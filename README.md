@@ -66,6 +66,30 @@
 
 
 **Konfigurasi sebagai admin**
+Aktifkan Fitur Access Control List (ACL)
+- Masuk ke folder
+  ```bash
+  C:\xampp\htdocs\dokuwiki\conf\
+  ```
+- Buka file
+  ```bash
+  local.php
+  ```
+- Tambahkan baris sesuai di bawah ini dan simpan dengan Ctrl + S
+  ```bash
+  <?php
+   $conf['useacl'] = 1;              
+   $conf['superuser'] = 'admin';     // Username admin 
+   $conf['autopasswd'] = 1;          
+   $conf['authtype'] = 'authplain';  
+   $conf['passcrypt'] = 'bcrypt';    /
+   $conf['disableactions'] = '';     
+   ```
+- Buka XAMPP Control Panel dan Start kembali Apache
+- Akses kembali Dokuwiki
+    ```bash
+   http://localhost/dokuwiki/doku.php?id=start
+   ```
 1. Login sesuai dengan username dan password admin yang sudah dibuat
     ![Login Admin](Images/KonfigurasiAdmin1.png)
 2. Jika berhasil, akan muncul tampilan menu admin kemudian pilih menu _Configuration Setting_
