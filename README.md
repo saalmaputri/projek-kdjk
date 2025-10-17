@@ -47,6 +47,7 @@
    ![LocalHost DokuWiki](Images/DokuWiki4.png)
 
 ## Konfigurasi 
+[`^ kembali ke atas ^`](#)
 
 ### Setting Server
 1. Setelah proses instalasi, setting konfigurasi dengan memebuka file php.ini pada text editor 
@@ -64,9 +65,7 @@
    XAMPP → klik Stop lalu Start di Apache
    ![Start Apache aktif](Images/Konfigurasi3.png)
 
-
 ### Konfigurasi sebagai admin
-
 **Aktifkan Fitur Access Control List (ACL) Jika belom ada menu Login**
 - Masuk ke folder
   ```bash
