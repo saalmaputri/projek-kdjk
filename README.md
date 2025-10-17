@@ -68,7 +68,7 @@
 **Konfigurasi sebagai admin**
 1. Login sesuai dengan username dan password admin yang sudah dibuat
     ![Login Admin](Images/KonfigurasiAdmin1.png)
-2. Jika berhasi, akan muncul tampilan seperti in lalu pilih Configuration Setting
+2. Jika berhasil, akan muncul tampilan menu admin kemudian pilih menu _Configuration Setting_
    ![Tampilan Menu Admin](Images/KonfigurasiAdmin2.png)
 3. Sesuaikan konfigurasi dengan kebutuhan Anda
    ![Pengaturan Konfigurasi](Images/KonfigurasiAdmin3.png)
